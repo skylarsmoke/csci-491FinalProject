@@ -18,3 +18,5 @@ https://www.seventhsanctum.com/generate.php?Genname=storygen
 (These two are more focused on generating the basic plot as a starting point for writing)
 
 https://www.plot-generator.org.uk/story/ (this one is pretty much exactly the madlibs thing)
+
+Presentation link: https://docs.google.com/presentation/d/1vTWBeVRHCGea98twNs89zqWGYc3MEPUu7xzF263dYxo/edit?usp=sharing
